@@ -1,0 +1,204 @@
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 50px;
+}
+.middle-container{
+  text-align: center;
+  padding-top: 10px;
+  background-color: #E4F9F5;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  margin:0;
+  background-color: black;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 0;
+}
+h1{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Sacramento';
+}
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Teko', sans-serif;
+}
+.c1{
+  display: inline-block;
+  position:relative;
+  left:250px;
+
+}
+.c2{
+  position: absolute;
+  top:200px;
+  left:150px;
+}
+.name{
+  font-size: 5.625rem;
+  color:#66BFBF;
+  margin-bottom: 0;
+}
+.description{
+  font-size: 1.875rem;
+  color:#66BFBF;
+  margin-top: 0;
+}
+.hacker{
+  width:25%;
+  float:right;
+  margin-right:130px;
+}
+p{
+  font-size: 1.875rem;
+}
+.heading{
+  font-size: 3.125rem;
+  color: #11999E;
+}
+ul{
+  text-align: center;
+  list-style-position: inside;
+}
+hr{
+  border-style: dotted none none none;
+  border-color:#66BFBF;
+  width: 10%;
+  border-width: 10px;
+  margin:100px auto;
+}
+.instagram{
+  position:absolute;
+  background-color: black;
+  display: inline-block;
+  left:100px;
+}
+body{
+  background-color: black;
+}
+.link-instagram{
+  position: relative;
+  bottom: 20px;
+}
+.twitter{
+  position:absolute;
+  display: inline-block;
+  right:100px;
+}
+.linkedin{
+  position: relative;
+  display:inline-block;
+}
+.link{
+  color:white;
+}
+.link:hover{
+  color:gold;
+}
+.email{
+  position:relative;
+  display: block;
+  top:30px;
+}
+.conclusion{
+  position: relative;
+  top: 100px;
+}
+.link-a{
+  padding-bottom: 30px;
+  text-align: center;
+}
+.heading-a{
+  color:white;
+  font-size: 3.125rem;
+}
+.intro{
+  width:70%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  position: relative;
+  left:80px;
+}
+.skill-a{
+  width:70%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+}
+.skill-a-img{
+  width:45%;
+  float:left;
+}
+.skill-b{
+  width:70%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+  position: relative;
+  left:70px;
+}
+.skill-b-img{
+  width:45%;
+  float:right;
+  margin-right: 50px;
+}
+.skill-c{
+  width:80%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+  position: relative;
+  right:30px;
+}
+.skill-c-img{
+  width:45%;
+  float:left;
+  margin-right: 50px;
+  height:300px;
+}
+.skill-d{
+  width:80%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+  position: relative;
+  left:70px;
+}
+.skill-d-img{
+  width:45%;
+  float:right;
+  margin-right: 50px;
+}
+a{
+  text-decoration: none;
+}
+.mail-link{
+  width:20%;
+  color:white;
+  position:relative;
+  display: inline-block;
+  margin-top:0;
+}
+.mail-link-a{
+  width:10%;
+}
+.mail-link:hover{
+  color:gold;
+}
+.link-x{
+  color:white;
+  position:relative;
+  bottom:10px;
+  margin-top:10px;
+}
+.link-x:hover{
+  color:gold;
+}
